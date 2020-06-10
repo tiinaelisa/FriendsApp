@@ -4,7 +4,7 @@
 
 <b>AWS Services</b> include: Lambda, DynamoDB, ECR/ECS, RDS   
 
-This was our final project at AW Academy, the grand result four Junior Cloud Developers developed in the period of 9 days.
+This was our final project at AW Academy, the grand result of four Junior Cloud Developers, developed in the period of 9 days.
 The app itself was fully functional at the time of presenting, only extra features have been added and worked on later.
 
 The app consists of a UI, which was mainly my responsibility as I wanted to learn new technologies (= frontend) during the final project, backend that we all worked on, a postgreSQL database on Docker, and it is hosted on the AWS cloud.
@@ -20,7 +20,7 @@ The project is close to be finished and our dream is to publish it for the audie
 - list of all users (and their profiles you can visit)
 - search function to narrow down users by e.g. location, interests
 - friend lists where users can add other users as friends
-- one-two-one chat
+- one-on-one chat
 
 <b>Why friends app?</b>
 
